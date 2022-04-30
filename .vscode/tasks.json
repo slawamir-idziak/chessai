@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": ".\\scripts\\build.bat",
+            "type": "shell"
+        },
+        {
+            "label": "run",
+            "command": ".\\scripts\\run.bat",
+            "type": "shell"
+        }
+    ]
+}

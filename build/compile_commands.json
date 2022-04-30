@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/rspon/Desktop/chessai/build",
+  "command": "C:/MinGW/bin/gcc.exe   -g -o CMakeFiles/chessai.dir/main.c.obj -c C:/Users/rspon/Desktop/chessai/src/main.c",
+  "file": "C:/Users/rspon/Desktop/chessai/src/main.c"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/rspon/Desktop/chessai/build/CMakeFiles/chessai.dir
+C:/Users/rspon/Desktop/chessai/build/CMakeFiles/edit_cache.dir
+C:/Users/rspon/Desktop/chessai/build/CMakeFiles/rebuild_cache.dir
