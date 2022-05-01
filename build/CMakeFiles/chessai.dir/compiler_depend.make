@@ -9,7 +9,13 @@ CMakeFiles/chessai.dir/main.c.obj: C:/Users/rspon/Desktop/chessai/src/main.c \
   C:/MinGW/include/sdkddkver.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/stddef.h \
   C:/MinGW/include/sys/types.h \
-  C:/MinGW/lib/gcc/mingw32/6.3.0/include/stdarg.h
+  C:/MinGW/lib/gcc/mingw32/6.3.0/include/stdarg.h \
+  C:/Users/rspon/Desktop/chessai/include/board.h \
+  C:/MinGW/include/string.h \
+  C:/MinGW/include/strings.h \
+  C:/MinGW/include/wchar.h \
+  C:/MinGW/include/ctype.h \
+  C:/MinGW/include/wctype.h
 
 
 C:/Users/rspon/Desktop/chessai/src/main.c:
@@ -29,3 +35,15 @@ C:/MinGW/include/w32api.h:
 C:/MinGW/include/sys/types.h:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/stdarg.h:
+
+C:/Users/rspon/Desktop/chessai/include/board.h:
+
+C:/MinGW/include/string.h:
+
+C:/MinGW/include/strings.h:
+
+C:/MinGW/include/wchar.h:
+
+C:/MinGW/include/ctype.h:
+
+C:/MinGW/include/wctype.h:
